@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [G2-V2Ray-2.2-x86_64](./G2-V2Ray-2.2-x86_64)
+- [g2-v2ray_2.2_x86_64](./g2-v2ray_2.2_x86_64)
 - [melishekan-nv_01](./melishekan-nv_01)
 
 ---

@@ -79,10 +79,14 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [G2-V2Ray-2.2-x86_64](https://github.com/funpr/downloader/tree/main/downloads/G2-V2Ray-2.2-x86_64)
 
-2. [melishekan-nv_01](https://github.com/funpr/downloader/tree/main/downloads/melishekan-nv_01)
+2. [g2-v2ray_2.2_x86_64](https://github.com/funpr/downloader/tree/main/downloads/g2-v2ray_2.2_x86_64)
+
+3. [melishekan-nv_01](https://github.com/funpr/downloader/tree/main/downloads/melishekan-nv_01)
 
 ---
